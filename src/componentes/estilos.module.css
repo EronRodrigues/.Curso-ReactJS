@@ -1,0 +1,37 @@
+ul {
+    list-style-type: none;
+}
+
+.container {
+    background-color: aqua;
+    color: black;
+    margin: 10px;
+    width: 300px;
+    padding: 10px;
+}
+
+input {
+    width: 100%;
+    text-align: left;
+}
+
+span {
+    font-weight: 700;
+}
+
+label {
+    width: 100%;
+    text-align: left;
+}
+
+.bt {
+    margin: 20;
+}
+
+.containerEdicaoHide {
+    display: none;
+}
+
+.containerEdicaoShow {
+    display: block;
+}
