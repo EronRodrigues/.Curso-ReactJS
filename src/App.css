@@ -1,0 +1,14 @@
+
+.container {
+  background-color: orange;
+  width: 100%;
+  padding: 10px;
+}
+
+input {
+  width: 100%;
+}
+
+label {
+  width: 100%;
+}
