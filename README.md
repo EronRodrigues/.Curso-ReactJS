@@ -1,1 +1,1 @@
-# .aulaReactJS
+# curso-reactjs
